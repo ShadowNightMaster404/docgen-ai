@@ -6,7 +6,7 @@ Generate Python docstrings automatically using a local LLM.
 
 
 
-!\[Python](https://img.shields.io/badge/Python-3.10+-blue)
+!\[Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 
 !\[License](https://img.shields.io/badge/License-MIT-green)
 
